@@ -1,0 +1,502 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="C10000037@JSBC" tvg-name="CCTV1-HD" tvg-chno="1" group-title="JSBC IPTV",CCTV1-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000037@JSBC
+#EXTINF:-1 tvg-id="C10000015@JSBC" tvg-name="江苏卫视HD" tvg-chno="2" group-title="JSBC IPTV",江苏卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000015@JSBC
+#EXTINF:-1 tvg-id="C10000038@JSBC" tvg-name="CCTV2-HD" tvg-chno="3" group-title="JSBC IPTV",CCTV2-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000038@JSBC
+#EXTINF:-1 tvg-id="C10000220@JSBC" tvg-name="CCTV3-HD" tvg-chno="3" group-title="JSBC IPTV",CCTV3-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000220@JSBC
+#EXTINF:-1 tvg-id="C10000039@JSBC" tvg-name="CCTV4-HD" tvg-chno="5" group-title="JSBC IPTV",CCTV4-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000039@JSBC
+#EXTINF:-1 tvg-id="C10000221@JSBC" tvg-name="CCTV5-HD" tvg-chno="5" group-title="JSBC IPTV",CCTV5-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000221@JSBC
+#EXTINF:-1 tvg-id="C10000018@JSBC" tvg-name="CCTV-6" tvg-chno="6" group-title="JSBC IPTV",CCTV-6
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000018@JSBC
+#EXTINF:-1 tvg-id="C10000196@JSBC" tvg-name="CCTV-7" tvg-chno="7" group-title="JSBC IPTV",CCTV-7
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000196@JSBC
+#EXTINF:-1 tvg-id="C10000020@JSBC" tvg-name="CCTV-8" tvg-chno="8" group-title="JSBC IPTV",CCTV-8
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000020@JSBC
+#EXTINF:-1 tvg-id="C10000022@JSBC" tvg-name="CCTV-10" tvg-chno="10" group-title="JSBC IPTV",CCTV-10
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000022@JSBC
+#EXTINF:-1 tvg-id="C10000042@JSBC" tvg-name="CCTV9-HD" tvg-chno="10" group-title="JSBC IPTV",CCTV9-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000042@JSBC
+#EXTINF:-1 tvg-id="C10000023@JSBC" tvg-name="CCTV-11" tvg-chno="11" group-title="JSBC IPTV",CCTV-11
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000023@JSBC
+#EXTINF:-1 tvg-id="C10000120@JSBC" tvg-name="CCTV12-HD" tvg-chno="13" group-title="JSBC IPTV",CCTV12-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000120@JSBC
+#EXTINF:-1 tvg-id="C10000025@JSBC" tvg-name="CCTV-新闻" tvg-chno="14" group-title="JSBC IPTV",CCTV-新闻
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000025@JSBC
+#EXTINF:-1 tvg-id="C10000027@JSBC" tvg-name="CCTV-音乐" tvg-chno="15" group-title="JSBC IPTV",CCTV-音乐
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000027@JSBC
+#EXTINF:-1 tvg-id="C10000121@JSBC" tvg-name="CCTV14-HD" tvg-chno="15" group-title="JSBC IPTV",CCTV14-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000121@JSBC
+#EXTINF:-1 tvg-id="C10000041@JSBC" tvg-name="CCTV17-HD" tvg-chno="17" group-title="JSBC IPTV",CCTV17-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000041@JSBC
+#EXTINF:-1 tvg-id="C10000021@JSBC" tvg-name="CGTN" tvg-chno="17" group-title="JSBC IPTV",CGTN
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000021@JSBC
+#EXTINF:-1 tvg-id="C10000233@JSBC" tvg-name="CGTN俄语-HD" tvg-chno="19" group-title="JSBC IPTV",CGTN俄语-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000233@JSBC
+#EXTINF:-1 tvg-id="C10000449@JSBC" tvg-name="CGTN法语-HD" tvg-chno="20" group-title="JSBC IPTV",CGTN法语-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000449@JSBC
+#EXTINF:-1 tvg-id="C10000448@JSBC" tvg-name="CGTN西班牙语-HD" tvg-chno="20" group-title="JSBC IPTV",CGTN西班牙语-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000448@JSBC
+#EXTINF:-1 tvg-id="C10000224@JSBC" tvg-name="江苏城市HD" tvg-chno="22" group-title="JSBC IPTV",江苏城市HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000224@JSBC
+#EXTINF:-1 tvg-id="C10000225@JSBC" tvg-name="江苏综艺HD" tvg-chno="23" group-title="JSBC IPTV",江苏综艺HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000225@JSBC
+#EXTINF:-1 tvg-id="C10000226@JSBC" tvg-name="江苏体育休闲HD" tvg-chno="24" group-title="JSBC IPTV",江苏体育休闲HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000226@JSBC
+#EXTINF:-1 tvg-id="C10000227@JSBC" tvg-name="江苏影视HD" tvg-chno="25" group-title="JSBC IPTV",江苏影视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000227@JSBC
+#EXTINF:-1 tvg-id="C10000228@JSBC" tvg-name="优漫卡通HD" tvg-chno="26" group-title="JSBC IPTV",优漫卡通HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000228@JSBC
+#EXTINF:-1 tvg-id="C10000229@JSBC" tvg-name="江苏新闻HD" tvg-chno="27" group-title="JSBC IPTV",江苏新闻HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000229@JSBC
+#EXTINF:-1 tvg-id="C10000032@JSBC" tvg-name="江苏国际" tvg-chno="28" group-title="JSBC IPTV",江苏国际
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000032@JSBC
+#EXTINF:-1 tvg-id="C10000230@JSBC" tvg-name="好享购物HD" tvg-chno="29" group-title="JSBC IPTV",好享购物HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000230@JSBC
+#EXTINF:-1 tvg-id="C10000231@JSBC" tvg-name="江苏教育HD" tvg-chno="30" group-title="JSBC IPTV",江苏教育HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000231@JSBC
+#EXTINF:-1 tvg-id="C10000467@JSBC" tvg-name="财富天下HD" tvg-chno="32" group-title="JSBC IPTV",财富天下HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000467@JSBC
+#EXTINF:-1 tvg-id="C10000433@JSBC" tvg-name="睛彩竞技HD(限免)" tvg-chno="54" group-title="JSBC IPTV",睛彩竞技HD(限免)
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000433@JSBC
+#EXTINF:-1 tvg-id="C10000431@JSBC" tvg-name="睛彩篮球HD(限免)" tvg-chno="55" group-title="JSBC IPTV",睛彩篮球HD(限免)
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000431@JSBC
+#EXTINF:-1 tvg-id="C10000428@JSBC" tvg-name="睛彩青少HD(限免)" tvg-chno="56" group-title="JSBC IPTV",睛彩青少HD(限免)
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000428@JSBC
+#EXTINF:-1 tvg-id="C10000429@JSBC" tvg-name="睛彩广场舞HD(限免)" tvg-chno="57" group-title="JSBC IPTV",睛彩广场舞HD(限免)
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000429@JSBC
+#EXTINF:-1 tvg-id="C10000426@JSBC" tvg-name="卡酷少儿HD" tvg-chno="108" group-title="JSBC IPTV",卡酷少儿HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000426@JSBC
+#EXTINF:-1 tvg-id="C10000216@JSBC" tvg-name="金鹰卡通HD" tvg-chno="109" group-title="JSBC IPTV",金鹰卡通HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000216@JSBC
+#EXTINF:-1 tvg-id="C10000043@JSBC" tvg-name="湖南卫视HD" tvg-chno="110" group-title="JSBC IPTV",湖南卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000043@JSBC
+#EXTINF:-1 tvg-id="C10000044@JSBC" tvg-name="浙江卫视HD" tvg-chno="111" group-title="JSBC IPTV",浙江卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000044@JSBC
+#EXTINF:-1 tvg-id="C10000045@JSBC" tvg-name="东方卫视HD" tvg-chno="112" group-title="JSBC IPTV",东方卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000045@JSBC
+#EXTINF:-1 tvg-id="C10000046@JSBC" tvg-name="北京卫视HD" tvg-chno="113" group-title="JSBC IPTV",北京卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000046@JSBC
+#EXTINF:-1 tvg-id="C10000049@JSBC" tvg-name="山东卫视HD" tvg-chno="114" group-title="JSBC IPTV",山东卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000049@JSBC
+#EXTINF:-1 tvg-id="C10000192@JSBC" tvg-name="安徽卫视HD" tvg-chno="115" group-title="JSBC IPTV",安徽卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000192@JSBC
+#EXTINF:-1 tvg-id="C10000168@JSBC" tvg-name="江西卫视HD" tvg-chno="116" group-title="JSBC IPTV",江西卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000168@JSBC
+#EXTINF:-1 tvg-id="C10000048@JSBC" tvg-name="深圳卫视HD" tvg-chno="117" group-title="JSBC IPTV",深圳卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000048@JSBC
+#EXTINF:-1 tvg-id="C10000141@JSBC" tvg-name="辽宁卫视HD" tvg-chno="118" group-title="JSBC IPTV",辽宁卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000141@JSBC
+#EXTINF:-1 tvg-id="C10000047@JSBC" tvg-name="广东卫视HD" tvg-chno="119" group-title="JSBC IPTV",广东卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000047@JSBC
+#EXTINF:-1 tvg-id="C10000053@JSBC" tvg-name="重庆卫视HD" tvg-chno="120" group-title="JSBC IPTV",重庆卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000053@JSBC
+#EXTINF:-1 tvg-id="C10000052@JSBC" tvg-name="天津卫视HD" tvg-chno="121" group-title="JSBC IPTV",天津卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000052@JSBC
+#EXTINF:-1 tvg-id="C10000051@JSBC" tvg-name="湖北卫视HD" tvg-chno="122" group-title="JSBC IPTV",湖北卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000051@JSBC
+#EXTINF:-1 tvg-id="C10000427@JSBC" tvg-name="厦门卫视" tvg-chno="123" group-title="JSBC IPTV",厦门卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000427@JSBC
+#EXTINF:-1 tvg-id="C10000432@JSBC" tvg-name="兵团卫视" tvg-chno="124" group-title="JSBC IPTV",兵团卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000432@JSBC
+#EXTINF:-1 tvg-id="C10000447@JSBC" tvg-name="山西卫视HD" tvg-chno="125" group-title="JSBC IPTV",山西卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000447@JSBC
+#EXTINF:-1 tvg-id="C10000450@JSBC" tvg-name="西藏卫视HD" tvg-chno="126" group-title="JSBC IPTV",西藏卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000450@JSBC
+#EXTINF:-1 tvg-id="C10000451@JSBC" tvg-name="新疆卫视HD" tvg-chno="127" group-title="JSBC IPTV",新疆卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000451@JSBC
+#EXTINF:-1 tvg-id="C10000452@JSBC" tvg-name="兵团卫视HD" tvg-chno="128" group-title="JSBC IPTV",兵团卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000452@JSBC
+#EXTINF:-1 tvg-id="C10000453@JSBC" tvg-name="宁夏卫视HD" tvg-chno="129" group-title="JSBC IPTV",宁夏卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000453@JSBC
+#EXTINF:-1 tvg-id="C10000468@JSBC" tvg-name="陕西卫视HD" tvg-chno="130" group-title="JSBC IPTV",陕西卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000468@JSBC
+#EXTINF:-1 tvg-id="C10000469@JSBC" tvg-name="内蒙古卫视HD" tvg-chno="131" group-title="JSBC IPTV",内蒙古卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000469@JSBC
+#EXTINF:-1 tvg-id="C10000167@JSBC" tvg-name="四川卫视HD" tvg-chno="166" group-title="JSBC IPTV",四川卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000167@JSBC
+#EXTINF:-1 tvg-id="C10000198@JSBC" tvg-name="广西卫视HD" tvg-chno="167" group-title="JSBC IPTV",广西卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000198@JSBC
+#EXTINF:-1 tvg-id="C10000200@JSBC" tvg-name="海南卫视HD" tvg-chno="168" group-title="JSBC IPTV",海南卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000200@JSBC
+#EXTINF:-1 tvg-id="C10000185@JSBC" tvg-name="河南卫视HD" tvg-chno="169" group-title="JSBC IPTV",河南卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000185@JSBC
+#EXTINF:-1 tvg-id="C10000169@JSBC" tvg-name="东南卫视HD" tvg-chno="170" group-title="JSBC IPTV",东南卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000169@JSBC
+#EXTINF:-1 tvg-id="C10000170@JSBC" tvg-name="吉林卫视HD" tvg-chno="171" group-title="JSBC IPTV",吉林卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000170@JSBC
+#EXTINF:-1 tvg-id="C10000050@JSBC" tvg-name="黑龙江卫视HD" tvg-chno="172" group-title="JSBC IPTV",黑龙江卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000050@JSBC
+#EXTINF:-1 tvg-id="C10000094@JSBC" tvg-name="山西卫视" tvg-chno="173" group-title="JSBC IPTV",山西卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000094@JSBC
+#EXTINF:-1 tvg-id="C10000171@JSBC" tvg-name="贵州卫视HD" tvg-chno="174" group-title="JSBC IPTV",贵州卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000171@JSBC
+#EXTINF:-1 tvg-id="C10000096@JSBC" tvg-name="青海卫视" tvg-chno="175" group-title="JSBC IPTV",青海卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000096@JSBC
+#EXTINF:-1 tvg-id="C10000173@JSBC" tvg-name="CETV1HD" tvg-chno="176" group-title="JSBC IPTV",CETV1HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000173@JSBC
+#EXTINF:-1 tvg-id="C10000098@JSBC" tvg-name="CETV2" tvg-chno="177" group-title="JSBC IPTV",CETV2
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000098@JSBC
+#EXTINF:-1 tvg-id="C10000101@JSBC" tvg-name="CETV4" tvg-chno="178" group-title="JSBC IPTV",CETV4
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000101@JSBC
+#EXTINF:-1 tvg-id="C10000471@JSBC" tvg-name="中学生" tvg-chno="179" group-title="JSBC IPTV",中学生
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000471@JSBC
+#EXTINF:-1 tvg-id="C10000142@JSBC" tvg-name="快乐垂钓HD" tvg-chno="192" group-title="JSBC IPTV",快乐垂钓HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000142@JSBC
+#EXTINF:-1 tvg-id="C10000202@JSBC" tvg-name="云南卫视HD" tvg-chno="195" group-title="JSBC IPTV",云南卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000202@JSBC
+#EXTINF:-1 tvg-id="C10000172@JSBC" tvg-name="河北卫视HD" tvg-chno="196" group-title="JSBC IPTV",河北卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000172@JSBC
+#EXTINF:-1 tvg-id="C10000163@JSBC" tvg-name="宁夏卫视" tvg-chno="197" group-title="JSBC IPTV",宁夏卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000163@JSBC
+#EXTINF:-1 tvg-id="C10000164@JSBC" tvg-name="甘肃卫视" tvg-chno="198" group-title="JSBC IPTV",甘肃卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000164@JSBC
+#EXTINF:-1 tvg-id="C10000165@JSBC" tvg-name="新疆卫视" tvg-chno="199" group-title="JSBC IPTV",新疆卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000165@JSBC
+#EXTINF:-1 tvg-id="C10000166@JSBC" tvg-name="内蒙古卫视" tvg-chno="200" group-title="JSBC IPTV",内蒙古卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000166@JSBC
+#EXTINF:-1 tvg-id="C10000177@JSBC" tvg-name="陕西卫视" tvg-chno="201" group-title="JSBC IPTV",陕西卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000177@JSBC
+#EXTINF:-1 tvg-id="C10000184@JSBC" tvg-name="西藏卫视" tvg-chno="204" group-title="JSBC IPTV",西藏卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000184@JSBC
+#EXTINF:-1 tvg-id="C10000405@JSBC" tvg-name="CETV4-HD" tvg-chno="205" group-title="JSBC IPTV",CETV4-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000405@JSBC
+#EXTINF:-1 tvg-id="C10000407@JSBC" tvg-name="甘肃卫视HD" tvg-chno="206" group-title="JSBC IPTV",甘肃卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000407@JSBC
+#EXTINF:-1 tvg-id="C10000408@JSBC" tvg-name="青海卫视HD" tvg-chno="207" group-title="JSBC IPTV",青海卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000408@JSBC
+#EXTINF:-1 tvg-id="C10000410@JSBC" tvg-name="三沙卫视HD" tvg-chno="208" group-title="JSBC IPTV",三沙卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000410@JSBC
+#EXTINF:-1 tvg-id="C10000097@JSBC" tvg-name="CETV1" tvg-chno="209" group-title="JSBC IPTV",CETV1
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000097@JSBC
+#EXTINF:-1 tvg-id="C10000419@JSBC" tvg-name="中国天气HD" tvg-chno="211" group-title="JSBC IPTV",中国天气HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000419@JSBC
+#EXTINF:-1 tvg-id="C10000420@JSBC" tvg-name="东方财经HD" tvg-chno="212" group-title="JSBC IPTV",东方财经HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000420@JSBC
+#EXTINF:-1 tvg-id="C10000422@JSBC" tvg-name="法治天地HD" tvg-chno="213" group-title="JSBC IPTV",法治天地HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000422@JSBC
+#EXTINF:-1 tvg-id="C10000423@JSBC" tvg-name="生活时尚HD" tvg-chno="214" group-title="JSBC IPTV",生活时尚HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000423@JSBC
+#EXTINF:-1 tvg-id="C10000424@JSBC" tvg-name="都市剧场HD" tvg-chno="215" group-title="JSBC IPTV",都市剧场HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000424@JSBC
+#EXTINF:-1 tvg-id="C10000434@JSBC" tvg-name="山东教育卫视HD" tvg-chno="216" group-title="JSBC IPTV",山东教育卫视HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000434@JSBC
+#EXTINF:-1 tvg-id="C10000010@JSBC" tvg-name="CCTV-1" tvg-chno="301" group-title="JSBC IPTV",CCTV-1
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000010@JSBC
+#EXTINF:-1 tvg-id="C10000011@JSBC" tvg-name="CCTV-2" tvg-chno="302" group-title="JSBC IPTV",CCTV-2
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000011@JSBC
+#EXTINF:-1 tvg-id="C10000012@JSBC" tvg-name="CCTV-3" tvg-chno="303" group-title="JSBC IPTV",CCTV-3
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000012@JSBC
+#EXTINF:-1 tvg-id="C10000013@JSBC" tvg-name="CCTV-4" tvg-chno="304" group-title="JSBC IPTV",CCTV-4
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000013@JSBC
+#EXTINF:-1 tvg-id="C10000009@JSBC" tvg-name="CCTV-5" tvg-chno="305" group-title="JSBC IPTV",CCTV-5
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000009@JSBC
+#EXTINF:-1 tvg-id="C10000222@JSBC" tvg-name="CCTV6-HD" tvg-chno="306" group-title="JSBC IPTV",CCTV6-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000222@JSBC
+#EXTINF:-1 tvg-id="C10000403@JSBC" tvg-name="CCTV7-HD" tvg-chno="307" group-title="JSBC IPTV",CCTV7-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000403@JSBC
+#EXTINF:-1 tvg-id="C10000223@JSBC" tvg-name="CCTV8-HD" tvg-chno="308" group-title="JSBC IPTV",CCTV8-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000223@JSBC
+#EXTINF:-1 tvg-id="C10000119@JSBC" tvg-name="CCTV10-HD" tvg-chno="310" group-title="JSBC IPTV",CCTV10-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000119@JSBC
+#EXTINF:-1 tvg-id="C10000402@JSBC" tvg-name="CCTV11-HD" tvg-chno="311" group-title="JSBC IPTV",CCTV11-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000402@JSBC
+#EXTINF:-1 tvg-id="C10000024@JSBC" tvg-name="CCTV-12" tvg-chno="312" group-title="JSBC IPTV",CCTV-12
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000024@JSBC
+#EXTINF:-1 tvg-id="C10000232@JSBC" tvg-name="CCTV13-HD" tvg-chno="313" group-title="JSBC IPTV",CCTV13-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000232@JSBC
+#EXTINF:-1 tvg-id="C10000026@JSBC" tvg-name="CCTV-少儿" tvg-chno="314" group-title="JSBC IPTV",CCTV-少儿
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000026@JSBC
+#EXTINF:-1 tvg-id="C10000404@JSBC" tvg-name="CCTV音乐-HD" tvg-chno="315" group-title="JSBC IPTV",CCTV音乐-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000404@JSBC
+#EXTINF:-1 tvg-id="C10000193@JSBC" tvg-name="CCTV16-HD" tvg-chno="316" group-title="JSBC IPTV",CCTV16-HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000193@JSBC
+#EXTINF:-1 tvg-id="C10000019@JSBC" tvg-name="CCTV-17" tvg-chno="317" group-title="JSBC IPTV",CCTV-17
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000019@JSBC
+#EXTINF:-1 tvg-id="C10000040@JSBC" tvg-name="CCTV5+HD" tvg-chno="320" group-title="JSBC IPTV",CCTV5+HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000040@JSBC
+#EXTINF:-1 tvg-id="C10000016@JSBC" tvg-name="江苏城市" tvg-chno="322" group-title="JSBC IPTV",江苏城市
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000016@JSBC
+#EXTINF:-1 tvg-id="C10000017@JSBC" tvg-name="江苏综艺" tvg-chno="323" group-title="JSBC IPTV",江苏综艺
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000017@JSBC
+#EXTINF:-1 tvg-id="C10000028@JSBC" tvg-name="江苏体育休闲" tvg-chno="324" group-title="JSBC IPTV",江苏体育休闲
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000028@JSBC
+#EXTINF:-1 tvg-id="C10000029@JSBC" tvg-name="江苏影视" tvg-chno="325" group-title="JSBC IPTV",江苏影视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000029@JSBC
+#EXTINF:-1 tvg-id="C10000030@JSBC" tvg-name="优漫卡通" tvg-chno="326" group-title="JSBC IPTV",优漫卡通
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000030@JSBC
+#EXTINF:-1 tvg-id="C10000031@JSBC" tvg-name="江苏新闻" tvg-chno="327" group-title="JSBC IPTV",江苏新闻
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000031@JSBC
+#EXTINF:-1 tvg-id="C10000033@JSBC" tvg-name="好享购物" tvg-chno="328" group-title="JSBC IPTV",好享购物
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000033@JSBC
+#EXTINF:-1 tvg-id="C10000034@JSBC" tvg-name="江苏教育" tvg-chno="329" group-title="JSBC IPTV",江苏教育
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000034@JSBC
+#EXTINF:-1 tvg-id="C10000470@JSBC" tvg-name="江苏国际HD" tvg-chno="330" group-title="JSBC IPTV",江苏国际HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000470@JSBC
+#EXTINF:-1 tvg-id="C10000054@JSBC" tvg-name="湖南卫视" tvg-chno="332" group-title="JSBC IPTV",湖南卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000054@JSBC
+#EXTINF:-1 tvg-id="C10000055@JSBC" tvg-name="浙江卫视" tvg-chno="334" group-title="JSBC IPTV",浙江卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000055@JSBC
+#EXTINF:-1 tvg-id="C10000056@JSBC" tvg-name="东方卫视" tvg-chno="335" group-title="JSBC IPTV",东方卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000056@JSBC
+#EXTINF:-1 tvg-id="C10000057@JSBC" tvg-name="北京卫视" tvg-chno="336" group-title="JSBC IPTV",北京卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000057@JSBC
+#EXTINF:-1 tvg-id="C10000087@JSBC" tvg-name="四川卫视" tvg-chno="337" group-title="JSBC IPTV",四川卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000087@JSBC
+#EXTINF:-1 tvg-id="C10000091@JSBC" tvg-name="东南卫视" tvg-chno="338" group-title="JSBC IPTV",东南卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000091@JSBC
+#EXTINF:-1 tvg-id="C10000092@JSBC" tvg-name="吉林卫视" tvg-chno="339" group-title="JSBC IPTV",吉林卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000092@JSBC
+#EXTINF:-1 tvg-id="C10000095@JSBC" tvg-name="贵州卫视" tvg-chno="340" group-title="JSBC IPTV",贵州卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000095@JSBC
+#EXTINF:-1 tvg-id="C10000162@JSBC" tvg-name="河北卫视" tvg-chno="341" group-title="JSBC IPTV",河北卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000162@JSBC
+#EXTINF:-1 tvg-id="C10000063@JSBC" tvg-name="广东卫视" tvg-chno="342" group-title="JSBC IPTV",广东卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000063@JSBC
+#EXTINF:-1 tvg-id="C10000061@JSBC" tvg-name="深圳卫视" tvg-chno="343" group-title="JSBC IPTV",深圳卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000061@JSBC
+#EXTINF:-1 tvg-id="C10000058@JSBC" tvg-name="山东卫视" tvg-chno="344" group-title="JSBC IPTV",山东卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000058@JSBC
+#EXTINF:-1 tvg-id="C10000093@JSBC" tvg-name="黑龙江卫视" tvg-chno="345" group-title="JSBC IPTV",黑龙江卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000093@JSBC
+#EXTINF:-1 tvg-id="C10000066@JSBC" tvg-name="湖北卫视" tvg-chno="346" group-title="JSBC IPTV",湖北卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000066@JSBC
+#EXTINF:-1 tvg-id="C10000065@JSBC" tvg-name="天津卫视" tvg-chno="347" group-title="JSBC IPTV",天津卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000065@JSBC
+#EXTINF:-1 tvg-id="C10000064@JSBC" tvg-name="重庆卫视" tvg-chno="348" group-title="JSBC IPTV",重庆卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000064@JSBC
+#EXTINF:-1 tvg-id="C10000062@JSBC" tvg-name="辽宁卫视" tvg-chno="349" group-title="JSBC IPTV",辽宁卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000062@JSBC
+#EXTINF:-1 tvg-id="C10000060@JSBC" tvg-name="江西卫视" tvg-chno="350" group-title="JSBC IPTV",江西卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000060@JSBC
+#EXTINF:-1 tvg-id="C10000409@JSBC" tvg-name="三沙卫视" tvg-chno="351" group-title="JSBC IPTV",三沙卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000409@JSBC
+#EXTINF:-1 tvg-id="C10000059@JSBC" tvg-name="安徽卫视" tvg-chno="352" group-title="JSBC IPTV",安徽卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000059@JSBC
+#EXTINF:-1 tvg-id="C10000090@JSBC" tvg-name="河南卫视" tvg-chno="353" group-title="JSBC IPTV",河南卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000090@JSBC
+#EXTINF:-1 tvg-id="C10000187@JSBC" tvg-name="金鹰纪实HD" tvg-chno="355" group-title="JSBC IPTV",金鹰纪实HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000187@JSBC
+#EXTINF:-1 tvg-id="C10000088@JSBC" tvg-name="广西卫视" tvg-chno="356" group-title="JSBC IPTV",广西卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000088@JSBC
+#EXTINF:-1 tvg-id="C10000089@JSBC" tvg-name="海南卫视" tvg-chno="357" group-title="JSBC IPTV",海南卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000089@JSBC
+#EXTINF:-1 tvg-id="C10000161@JSBC" tvg-name="云南卫视" tvg-chno="358" group-title="JSBC IPTV",云南卫视
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000161@JSBC
+#EXTINF:-1 tvg-id="C10000235@JSBC" tvg-name="梨园HD" tvg-chno="381" group-title="JSBC IPTV",梨园HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000235@JSBC
+#EXTINF:-1 tvg-id="C10000236@JSBC" tvg-name="武术世界HD" tvg-chno="382" group-title="JSBC IPTV",武术世界HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000236@JSBC
+#EXTINF:-1 tvg-id="C10000237@JSBC" tvg-name="文物宝库HD" tvg-chno="383" group-title="JSBC IPTV",文物宝库HD
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000237@JSBC
+#EXTINF:-1 tvg-id="C10000151@JSBC" tvg-name="直播间1" tvg-chno="401" group-title="JSBC IPTV",直播间1
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000151@JSBC
+#EXTINF:-1 tvg-id="C10000152@JSBC" tvg-name="直播间2" tvg-chno="402" group-title="JSBC IPTV",直播间2
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000152@JSBC
+#EXTINF:-1 tvg-id="C10000440@JSBC" tvg-name="多画面" tvg-chno="405" group-title="JSBC IPTV",多画面
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000440@JSBC
+#EXTINF:-1 tvg-id="C10000441@JSBC" tvg-name="江苏省城市足球联赛1" tvg-chno="406" group-title="JSBC IPTV",江苏省城市足球联赛1
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000441@JSBC
+#EXTINF:-1 tvg-id="C10000442@JSBC" tvg-name="江苏省城市足球联赛2" tvg-chno="407" group-title="JSBC IPTV",江苏省城市足球联赛2
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000442@JSBC
+#EXTINF:-1 tvg-id="C10000443@JSBC" tvg-name="江苏省城市足球联赛3" tvg-chno="408" group-title="JSBC IPTV",江苏省城市足球联赛3
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000443@JSBC
+#EXTINF:-1 tvg-id="C10000444@JSBC" tvg-name="江苏省城市足球联赛4" tvg-chno="409" group-title="JSBC IPTV",江苏省城市足球联赛4
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000444@JSBC
+#EXTINF:-1 tvg-id="C10000445@JSBC" tvg-name="江苏省城市足球联赛5" tvg-chno="410" group-title="JSBC IPTV",江苏省城市足球联赛5
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000445@JSBC
+#EXTINF:-1 tvg-id="C10000446@JSBC" tvg-name="江苏省城市足球联赛6" tvg-chno="411" group-title="JSBC IPTV",江苏省城市足球联赛6
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000446@JSBC
+#EXTINF:-1 tvg-id="C10000454@JSBC" tvg-name="江苏卫视4K(SDR)" tvg-chno="500" group-title="JSBC IPTV",江苏卫视4K(SDR)
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000454@JSBC
+#EXTINF:-1 tvg-id="C10000455@JSBC" tvg-name="江苏卫视4K(HDR)" tvg-chno="501" group-title="JSBC IPTV",江苏卫视4K(HDR)
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000455@JSBC
+#EXTINF:-1 tvg-id="C10000425@JSBC" tvg-name="北京卫视4K(SDR)" tvg-chno="502" group-title="JSBC IPTV",北京卫视4K(SDR)
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000425@JSBC
+#EXTINF:-1 tvg-id="C10000435@JSBC" tvg-name="北京卫视4K(HDR)" tvg-chno="503" group-title="JSBC IPTV",北京卫视4K(HDR)
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000435@JSBC
+#EXTINF:-1 tvg-id="C10000436@JSBC" tvg-name="广东卫视4K(SDR)" tvg-chno="504" group-title="JSBC IPTV",广东卫视4K(SDR)
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000436@JSBC
+#EXTINF:-1 tvg-id="C10000438@JSBC" tvg-name="深圳卫视4K(SDR)" tvg-chno="506" group-title="JSBC IPTV",深圳卫视4K(SDR)
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000438@JSBC
+#EXTINF:-1 tvg-id="C10000457@JSBC" tvg-name="浙江卫视4K(SDR)" tvg-chno="508" group-title="JSBC IPTV",浙江卫视4K(SDR)
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000457@JSBC
+#EXTINF:-1 tvg-id="C10000459@JSBC" tvg-name="四川卫视4K(SDR)" tvg-chno="510" group-title="JSBC IPTV",四川卫视4K(SDR)
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000459@JSBC
+#EXTINF:-1 tvg-id="C10000461@JSBC" tvg-name="湖南卫视4K(SDR)" tvg-chno="512" group-title="JSBC IPTV",湖南卫视4K(SDR)
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000461@JSBC
+#EXTINF:-1 tvg-id="C10000463@JSBC" tvg-name="东方卫视4K(SDR)" tvg-chno="514" group-title="JSBC IPTV",东方卫视4K(SDR)
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000463@JSBC
+#EXTINF:-1 tvg-id="C10000465@JSBC" tvg-name="山东卫视4K(SDR)" tvg-chno="516" group-title="JSBC IPTV",山东卫视4K(SDR)
+#EXTVLCOPT:rtsp-tcp
+rtsp://157.0.143.37:554/JSBC_iptv/C10000465@JSBC
