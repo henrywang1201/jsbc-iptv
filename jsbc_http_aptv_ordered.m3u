@@ -394,37 +394,37 @@ http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000410@JSBC
 #EXTINF:-1 tvg-id="C10000409@JSBC" tvg-name="三沙卫视" tvg-chno="351" http-user-agent="AptvPlayer-UA" group-title="卫视频道",三沙卫视
 http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000409@JSBC
 
-#EXTINF:-1 tvg-id="C10000455@JSBC" tvg-name="江苏卫视4K(HDR)" tvg-chno="501" http-user-agent="AptvPlayer-UA" group-title="4K频道",江苏卫视4K(HDR)
+#EXTINF:-1 tvg-id="C10000455@JSBC" tvg-name="江苏卫视4K(HDR)" tvg-logo="https://live.fanmingming.com/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" tvg-chno="501" http-user-agent="AptvPlayer-UA" group-title="4K频道",江苏卫视4K(HDR)
 http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000455@JSBC
 
-#EXTINF:-1 tvg-id="C10000454@JSBC" tvg-name="江苏卫视4K(SDR)" tvg-chno="500" http-user-agent="AptvPlayer-UA" group-title="4K频道",江苏卫视4K(SDR)
+#EXTINF:-1 tvg-id="C10000454@JSBC" tvg-name="江苏卫视4K(SDR)" tvg-logo="https://live.fanmingming.com/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" tvg-chno="500" http-user-agent="AptvPlayer-UA" group-title="4K频道",江苏卫视4K(SDR)
 http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000454@JSBC
 
-#EXTINF:-1 tvg-id="C10000461@JSBC" tvg-name="湖南卫视4K(SDR)" tvg-chno="512" http-user-agent="AptvPlayer-UA" group-title="4K频道",湖南卫视4K(SDR)
+#EXTINF:-1 tvg-id="C10000461@JSBC" tvg-name="湖南卫视4K(SDR)" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" tvg-chno="512" http-user-agent="AptvPlayer-UA" group-title="4K频道",湖南卫视4K(SDR)
 http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000461@JSBC
 
-#EXTINF:-1 tvg-id="C10000457@JSBC" tvg-name="浙江卫视4K(SDR)" tvg-chno="508" http-user-agent="AptvPlayer-UA" group-title="4K频道",浙江卫视4K(SDR)
+#EXTINF:-1 tvg-id="C10000457@JSBC" tvg-name="浙江卫视4K(SDR)" tvg-logo="https://live.fanmingming.com/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" tvg-chno="508" http-user-agent="AptvPlayer-UA" group-title="4K频道",浙江卫视4K(SDR)
 http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000457@JSBC
 
-#EXTINF:-1 tvg-id="C10000463@JSBC" tvg-name="东方卫视4K(SDR)" tvg-chno="514" http-user-agent="AptvPlayer-UA" group-title="4K频道",东方卫视4K(SDR)
+#EXTINF:-1 tvg-id="C10000463@JSBC" tvg-name="东方卫视4K(SDR)" tvg-logo="https://live.fanmingming.com/tv/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" tvg-chno="514" http-user-agent="AptvPlayer-UA" group-title="4K频道",东方卫视4K(SDR)
 http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000463@JSBC
 
-#EXTINF:-1 tvg-id="C10000435@JSBC" tvg-name="北京卫视4K(HDR)" tvg-chno="503" http-user-agent="AptvPlayer-UA" group-title="4K频道",北京卫视4K(HDR)
+#EXTINF:-1 tvg-id="C10000435@JSBC" tvg-name="北京卫视4K(HDR)" tvg-logo="https://live.fanmingming.com/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" tvg-chno="503" http-user-agent="AptvPlayer-UA" group-title="4K频道",北京卫视4K(HDR)
 http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000435@JSBC
 
-#EXTINF:-1 tvg-id="C10000425@JSBC" tvg-name="北京卫视4K(SDR)" tvg-chno="502" http-user-agent="AptvPlayer-UA" group-title="4K频道",北京卫视4K(SDR)
+#EXTINF:-1 tvg-id="C10000425@JSBC" tvg-name="北京卫视4K(SDR)" tvg-logo="https://live.fanmingming.com/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" tvg-chno="502" http-user-agent="AptvPlayer-UA" group-title="4K频道",北京卫视4K(SDR)
 http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000425@JSBC
 
-#EXTINF:-1 tvg-id="C10000465@JSBC" tvg-name="山东卫视4K(SDR)" tvg-chno="516" http-user-agent="AptvPlayer-UA" group-title="4K频道",山东卫视4K(SDR)
+#EXTINF:-1 tvg-id="C10000465@JSBC" tvg-name="山东卫视4K(SDR)" tvg-logo="https://live.fanmingming.com/tv/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" tvg-chno="516" http-user-agent="AptvPlayer-UA" group-title="4K频道",山东卫视4K(SDR)
 http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000465@JSBC
 
-#EXTINF:-1 tvg-id="C10000438@JSBC" tvg-name="深圳卫视4K(SDR)" tvg-chno="506" http-user-agent="AptvPlayer-UA" group-title="4K频道",深圳卫视4K(SDR)
+#EXTINF:-1 tvg-id="C10000438@JSBC" tvg-name="深圳卫视4K(SDR)" tvg-logo="https://live.fanmingming.com/tv/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" tvg-chno="506" http-user-agent="AptvPlayer-UA" group-title="4K频道",深圳卫视4K(SDR)
 http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000438@JSBC
 
-#EXTINF:-1 tvg-id="C10000436@JSBC" tvg-name="广东卫视4K(SDR)" tvg-chno="504" http-user-agent="AptvPlayer-UA" group-title="4K频道",广东卫视4K(SDR)
+#EXTINF:-1 tvg-id="C10000436@JSBC" tvg-name="广东卫视4K(SDR)" tvg-logo="https://live.fanmingming.com/tv/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" tvg-chno="504" http-user-agent="AptvPlayer-UA" group-title="4K频道",广东卫视4K(SDR)
 http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000436@JSBC
 
-#EXTINF:-1 tvg-id="C10000459@JSBC" tvg-name="四川卫视4K(SDR)" tvg-chno="510" http-user-agent="AptvPlayer-UA" group-title="4K频道",四川卫视4K(SDR)
+#EXTINF:-1 tvg-id="C10000459@JSBC" tvg-name="四川卫视4K(SDR)" tvg-logo="https://live.fanmingming.com/tv/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" tvg-chno="510" http-user-agent="AptvPlayer-UA" group-title="4K频道",四川卫视4K(SDR)
 http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000459@JSBC
 
 #EXTINF:-1 tvg-id="C10000173@JSBC" tvg-name="CETV1HD" tvg-chno="176" http-user-agent="AptvPlayer-UA" group-title="教育频道",CETV1HD
