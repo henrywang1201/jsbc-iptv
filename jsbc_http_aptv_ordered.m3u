@@ -5,502 +5,502 @@
 #EXT-X-APTV-TYPE remote
 
 #EXTINF:-1 tvg-id="C10000037@JSBC" tvg-name="CCTV1-HD" tvg-chno="1" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV1-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000037@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000037@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000010@JSBC" tvg-name="CCTV-1" tvg-chno="301" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV-1
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000010@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000010@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000038@JSBC" tvg-name="CCTV2-HD" tvg-chno="3" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV2-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000038@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000038@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000011@JSBC" tvg-name="CCTV-2" tvg-chno="302" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV-2
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000011@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000011@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000220@JSBC" tvg-name="CCTV3-HD" tvg-chno="3" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV3-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000220@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000220@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000012@JSBC" tvg-name="CCTV-3" tvg-chno="303" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV-3
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000012@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000012@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000039@JSBC" tvg-name="CCTV4-HD" tvg-chno="5" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV4-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000039@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000039@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000013@JSBC" tvg-name="CCTV-4" tvg-chno="304" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV-4
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000013@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000013@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000221@JSBC" tvg-name="CCTV5-HD" tvg-chno="5" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV5-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000221@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000221@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000009@JSBC" tvg-name="CCTV-5" tvg-chno="305" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV-5
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000009@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000009@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000040@JSBC" tvg-name="CCTV5+HD" tvg-chno="320" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV5+HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000040@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000040@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000222@JSBC" tvg-name="CCTV6-HD" tvg-chno="306" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV6-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000222@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000222@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000018@JSBC" tvg-name="CCTV-6" tvg-chno="6" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV-6
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000018@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000018@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000403@JSBC" tvg-name="CCTV7-HD" tvg-chno="307" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV7-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000403@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000403@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000196@JSBC" tvg-name="CCTV-7" tvg-chno="7" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV-7
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000196@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000196@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000223@JSBC" tvg-name="CCTV8-HD" tvg-chno="308" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV8-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000223@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000223@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000020@JSBC" tvg-name="CCTV-8" tvg-chno="8" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV-8
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000020@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000020@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000042@JSBC" tvg-name="CCTV9-HD" tvg-chno="10" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV9-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000042@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000042@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000119@JSBC" tvg-name="CCTV10-HD" tvg-chno="310" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV10-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000119@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000119@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000022@JSBC" tvg-name="CCTV-10" tvg-chno="10" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV-10
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000022@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000022@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000402@JSBC" tvg-name="CCTV11-HD" tvg-chno="311" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV11-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000402@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000402@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000023@JSBC" tvg-name="CCTV-11" tvg-chno="11" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV-11
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000023@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000023@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000120@JSBC" tvg-name="CCTV12-HD" tvg-chno="13" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV12-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000120@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000120@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000024@JSBC" tvg-name="CCTV-12" tvg-chno="312" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV-12
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000024@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000024@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000232@JSBC" tvg-name="CCTV13-HD" tvg-chno="313" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV13-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000232@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000232@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000025@JSBC" tvg-name="CCTV-新闻" tvg-chno="14" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV-新闻
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000025@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000025@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000121@JSBC" tvg-name="CCTV14-HD" tvg-chno="15" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV14-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000121@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000121@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000026@JSBC" tvg-name="CCTV-少儿" tvg-chno="314" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV-少儿
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000026@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000026@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000404@JSBC" tvg-name="CCTV音乐-HD" tvg-chno="315" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV音乐-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000404@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000404@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000027@JSBC" tvg-name="CCTV-音乐" tvg-chno="15" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV-音乐
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000027@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000027@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000193@JSBC" tvg-name="CCTV16-HD" tvg-chno="316" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV16-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000193@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000193@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000041@JSBC" tvg-name="CCTV17-HD" tvg-chno="17" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV17-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000041@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000041@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000019@JSBC" tvg-name="CCTV-17" tvg-chno="317" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CCTV-17
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000019@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000019@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000021@JSBC" tvg-name="CGTN" tvg-chno="17" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CGTN
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000021@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000021@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000233@JSBC" tvg-name="CGTN俄语-HD" tvg-chno="19" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CGTN俄语-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000233@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000233@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000449@JSBC" tvg-name="CGTN法语-HD" tvg-chno="20" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CGTN法语-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000449@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000449@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000448@JSBC" tvg-name="CGTN西班牙语-HD" tvg-chno="20" http-user-agent="AptvPlayer-UA" group-title="央视及CGTN",CGTN西班牙语-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000448@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000448@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000015@JSBC" tvg-name="江苏卫视HD" tvg-chno="2" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000015@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000015@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000224@JSBC" tvg-name="江苏城市HD" tvg-chno="22" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏城市HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000224@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000224@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000225@JSBC" tvg-name="江苏综艺HD" tvg-chno="23" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏综艺HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000225@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000225@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000226@JSBC" tvg-name="江苏体育休闲HD" tvg-chno="24" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏体育休闲HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000226@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000226@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000227@JSBC" tvg-name="江苏影视HD" tvg-chno="25" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏影视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000227@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000227@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000228@JSBC" tvg-name="优漫卡通HD" tvg-chno="26" http-user-agent="AptvPlayer-UA" group-title="江苏频道",优漫卡通HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000228@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000228@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000229@JSBC" tvg-name="江苏新闻HD" tvg-chno="27" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏新闻HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000229@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000229@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000032@JSBC" tvg-name="江苏国际" tvg-chno="28" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏国际
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000032@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000032@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000230@JSBC" tvg-name="好享购物HD" tvg-chno="29" http-user-agent="AptvPlayer-UA" group-title="江苏频道",好享购物HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000230@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000230@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000231@JSBC" tvg-name="江苏教育HD" tvg-chno="30" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏教育HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000231@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000231@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000016@JSBC" tvg-name="江苏城市" tvg-chno="322" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏城市
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000016@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000016@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000017@JSBC" tvg-name="江苏综艺" tvg-chno="323" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏综艺
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000017@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000017@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000028@JSBC" tvg-name="江苏体育休闲" tvg-chno="324" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏体育休闲
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000028@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000028@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000029@JSBC" tvg-name="江苏影视" tvg-chno="325" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏影视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000029@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000029@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000030@JSBC" tvg-name="优漫卡通" tvg-chno="326" http-user-agent="AptvPlayer-UA" group-title="江苏频道",优漫卡通
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000030@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000030@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000031@JSBC" tvg-name="江苏新闻" tvg-chno="327" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏新闻
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000031@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000031@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000033@JSBC" tvg-name="好享购物" tvg-chno="328" http-user-agent="AptvPlayer-UA" group-title="江苏频道",好享购物
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000033@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000033@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000034@JSBC" tvg-name="江苏教育" tvg-chno="329" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏教育
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000034@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000034@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000470@JSBC" tvg-name="江苏国际HD" tvg-chno="330" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏国际HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000470@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000470@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000441@JSBC" tvg-name="江苏省城市足球联赛1" tvg-chno="406" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏省城市足球联赛1
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000441@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000441@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000442@JSBC" tvg-name="江苏省城市足球联赛2" tvg-chno="407" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏省城市足球联赛2
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000442@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000442@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000443@JSBC" tvg-name="江苏省城市足球联赛3" tvg-chno="408" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏省城市足球联赛3
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000443@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000443@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000444@JSBC" tvg-name="江苏省城市足球联赛4" tvg-chno="409" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏省城市足球联赛4
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000444@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000444@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000445@JSBC" tvg-name="江苏省城市足球联赛5" tvg-chno="410" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏省城市足球联赛5
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000445@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000445@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000446@JSBC" tvg-name="江苏省城市足球联赛6" tvg-chno="411" http-user-agent="AptvPlayer-UA" group-title="江苏频道",江苏省城市足球联赛6
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000446@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000446@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000043@JSBC" tvg-name="湖南卫视HD" tvg-chno="110" http-user-agent="AptvPlayer-UA" group-title="卫视频道",湖南卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000043@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000043@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000054@JSBC" tvg-name="湖南卫视" tvg-chno="332" http-user-agent="AptvPlayer-UA" group-title="卫视频道",湖南卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000054@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000054@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000044@JSBC" tvg-name="浙江卫视HD" tvg-chno="111" http-user-agent="AptvPlayer-UA" group-title="卫视频道",浙江卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000044@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000044@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000055@JSBC" tvg-name="浙江卫视" tvg-chno="334" http-user-agent="AptvPlayer-UA" group-title="卫视频道",浙江卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000055@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000055@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000045@JSBC" tvg-name="东方卫视HD" tvg-chno="112" http-user-agent="AptvPlayer-UA" group-title="卫视频道",东方卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000045@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000045@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000056@JSBC" tvg-name="东方卫视" tvg-chno="335" http-user-agent="AptvPlayer-UA" group-title="卫视频道",东方卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000056@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000056@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000046@JSBC" tvg-name="北京卫视HD" tvg-chno="113" http-user-agent="AptvPlayer-UA" group-title="卫视频道",北京卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000046@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000046@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000057@JSBC" tvg-name="北京卫视" tvg-chno="336" http-user-agent="AptvPlayer-UA" group-title="卫视频道",北京卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000057@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000057@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000049@JSBC" tvg-name="山东卫视HD" tvg-chno="114" http-user-agent="AptvPlayer-UA" group-title="卫视频道",山东卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000049@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000049@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000434@JSBC" tvg-name="山东教育卫视HD" tvg-chno="216" http-user-agent="AptvPlayer-UA" group-title="卫视频道",山东教育卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000434@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000434@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000058@JSBC" tvg-name="山东卫视" tvg-chno="344" http-user-agent="AptvPlayer-UA" group-title="卫视频道",山东卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000058@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000058@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000192@JSBC" tvg-name="安徽卫视HD" tvg-chno="115" http-user-agent="AptvPlayer-UA" group-title="卫视频道",安徽卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000192@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000192@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000059@JSBC" tvg-name="安徽卫视" tvg-chno="352" http-user-agent="AptvPlayer-UA" group-title="卫视频道",安徽卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000059@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000059@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000168@JSBC" tvg-name="江西卫视HD" tvg-chno="116" http-user-agent="AptvPlayer-UA" group-title="卫视频道",江西卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000168@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000168@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000060@JSBC" tvg-name="江西卫视" tvg-chno="350" http-user-agent="AptvPlayer-UA" group-title="卫视频道",江西卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000060@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000060@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000048@JSBC" tvg-name="深圳卫视HD" tvg-chno="117" http-user-agent="AptvPlayer-UA" group-title="卫视频道",深圳卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000048@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000048@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000061@JSBC" tvg-name="深圳卫视" tvg-chno="343" http-user-agent="AptvPlayer-UA" group-title="卫视频道",深圳卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000061@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000061@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000141@JSBC" tvg-name="辽宁卫视HD" tvg-chno="118" http-user-agent="AptvPlayer-UA" group-title="卫视频道",辽宁卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000141@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000141@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000062@JSBC" tvg-name="辽宁卫视" tvg-chno="349" http-user-agent="AptvPlayer-UA" group-title="卫视频道",辽宁卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000062@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000062@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000047@JSBC" tvg-name="广东卫视HD" tvg-chno="119" http-user-agent="AptvPlayer-UA" group-title="卫视频道",广东卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000047@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000047@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000063@JSBC" tvg-name="广东卫视" tvg-chno="342" http-user-agent="AptvPlayer-UA" group-title="卫视频道",广东卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000063@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000063@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000053@JSBC" tvg-name="重庆卫视HD" tvg-chno="120" http-user-agent="AptvPlayer-UA" group-title="卫视频道",重庆卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000053@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000053@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000064@JSBC" tvg-name="重庆卫视" tvg-chno="348" http-user-agent="AptvPlayer-UA" group-title="卫视频道",重庆卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000064@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000064@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000052@JSBC" tvg-name="天津卫视HD" tvg-chno="121" http-user-agent="AptvPlayer-UA" group-title="卫视频道",天津卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000052@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000052@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000065@JSBC" tvg-name="天津卫视" tvg-chno="347" http-user-agent="AptvPlayer-UA" group-title="卫视频道",天津卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000065@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000065@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000051@JSBC" tvg-name="湖北卫视HD" tvg-chno="122" http-user-agent="AptvPlayer-UA" group-title="卫视频道",湖北卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000051@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000051@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000066@JSBC" tvg-name="湖北卫视" tvg-chno="346" http-user-agent="AptvPlayer-UA" group-title="卫视频道",湖北卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000066@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000066@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000167@JSBC" tvg-name="四川卫视HD" tvg-chno="166" http-user-agent="AptvPlayer-UA" group-title="卫视频道",四川卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000167@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000167@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000087@JSBC" tvg-name="四川卫视" tvg-chno="337" http-user-agent="AptvPlayer-UA" group-title="卫视频道",四川卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000087@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000087@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000198@JSBC" tvg-name="广西卫视HD" tvg-chno="167" http-user-agent="AptvPlayer-UA" group-title="卫视频道",广西卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000198@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000198@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000088@JSBC" tvg-name="广西卫视" tvg-chno="356" http-user-agent="AptvPlayer-UA" group-title="卫视频道",广西卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000088@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000088@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000200@JSBC" tvg-name="海南卫视HD" tvg-chno="168" http-user-agent="AptvPlayer-UA" group-title="卫视频道",海南卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000200@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000200@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000089@JSBC" tvg-name="海南卫视" tvg-chno="357" http-user-agent="AptvPlayer-UA" group-title="卫视频道",海南卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000089@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000089@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000185@JSBC" tvg-name="河南卫视HD" tvg-chno="169" http-user-agent="AptvPlayer-UA" group-title="卫视频道",河南卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000185@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000185@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000090@JSBC" tvg-name="河南卫视" tvg-chno="353" http-user-agent="AptvPlayer-UA" group-title="卫视频道",河南卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000090@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000090@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000169@JSBC" tvg-name="东南卫视HD" tvg-chno="170" http-user-agent="AptvPlayer-UA" group-title="卫视频道",东南卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000169@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000169@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000091@JSBC" tvg-name="东南卫视" tvg-chno="338" http-user-agent="AptvPlayer-UA" group-title="卫视频道",东南卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000091@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000091@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000170@JSBC" tvg-name="吉林卫视HD" tvg-chno="171" http-user-agent="AptvPlayer-UA" group-title="卫视频道",吉林卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000170@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000170@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000092@JSBC" tvg-name="吉林卫视" tvg-chno="339" http-user-agent="AptvPlayer-UA" group-title="卫视频道",吉林卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000092@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000092@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000050@JSBC" tvg-name="黑龙江卫视HD" tvg-chno="172" http-user-agent="AptvPlayer-UA" group-title="卫视频道",黑龙江卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000050@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000050@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000093@JSBC" tvg-name="黑龙江卫视" tvg-chno="345" http-user-agent="AptvPlayer-UA" group-title="卫视频道",黑龙江卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000093@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000093@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000447@JSBC" tvg-name="山西卫视HD" tvg-chno="125" http-user-agent="AptvPlayer-UA" group-title="卫视频道",山西卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000447@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000447@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000094@JSBC" tvg-name="山西卫视" tvg-chno="173" http-user-agent="AptvPlayer-UA" group-title="卫视频道",山西卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000094@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000094@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000171@JSBC" tvg-name="贵州卫视HD" tvg-chno="174" http-user-agent="AptvPlayer-UA" group-title="卫视频道",贵州卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000171@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000171@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000095@JSBC" tvg-name="贵州卫视" tvg-chno="340" http-user-agent="AptvPlayer-UA" group-title="卫视频道",贵州卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000095@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000095@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000408@JSBC" tvg-name="青海卫视HD" tvg-chno="207" http-user-agent="AptvPlayer-UA" group-title="卫视频道",青海卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000408@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000408@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000096@JSBC" tvg-name="青海卫视" tvg-chno="175" http-user-agent="AptvPlayer-UA" group-title="卫视频道",青海卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000096@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000096@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000202@JSBC" tvg-name="云南卫视HD" tvg-chno="195" http-user-agent="AptvPlayer-UA" group-title="卫视频道",云南卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000202@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000202@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000161@JSBC" tvg-name="云南卫视" tvg-chno="358" http-user-agent="AptvPlayer-UA" group-title="卫视频道",云南卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000161@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000161@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000172@JSBC" tvg-name="河北卫视HD" tvg-chno="196" http-user-agent="AptvPlayer-UA" group-title="卫视频道",河北卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000172@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000172@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000162@JSBC" tvg-name="河北卫视" tvg-chno="341" http-user-agent="AptvPlayer-UA" group-title="卫视频道",河北卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000162@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000162@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000453@JSBC" tvg-name="宁夏卫视HD" tvg-chno="129" http-user-agent="AptvPlayer-UA" group-title="卫视频道",宁夏卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000453@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000453@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000163@JSBC" tvg-name="宁夏卫视" tvg-chno="197" http-user-agent="AptvPlayer-UA" group-title="卫视频道",宁夏卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000163@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000163@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000407@JSBC" tvg-name="甘肃卫视HD" tvg-chno="206" http-user-agent="AptvPlayer-UA" group-title="卫视频道",甘肃卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000407@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000407@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000164@JSBC" tvg-name="甘肃卫视" tvg-chno="198" http-user-agent="AptvPlayer-UA" group-title="卫视频道",甘肃卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000164@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000164@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000451@JSBC" tvg-name="新疆卫视HD" tvg-chno="127" http-user-agent="AptvPlayer-UA" group-title="卫视频道",新疆卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000451@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000451@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000165@JSBC" tvg-name="新疆卫视" tvg-chno="199" http-user-agent="AptvPlayer-UA" group-title="卫视频道",新疆卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000165@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000165@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000469@JSBC" tvg-name="内蒙古卫视HD" tvg-chno="131" http-user-agent="AptvPlayer-UA" group-title="卫视频道",内蒙古卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000469@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000469@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000166@JSBC" tvg-name="内蒙古卫视" tvg-chno="200" http-user-agent="AptvPlayer-UA" group-title="卫视频道",内蒙古卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000166@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000166@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000468@JSBC" tvg-name="陕西卫视HD" tvg-chno="130" http-user-agent="AptvPlayer-UA" group-title="卫视频道",陕西卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000468@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000468@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000177@JSBC" tvg-name="陕西卫视" tvg-chno="201" http-user-agent="AptvPlayer-UA" group-title="卫视频道",陕西卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000177@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000177@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000450@JSBC" tvg-name="西藏卫视HD" tvg-chno="126" http-user-agent="AptvPlayer-UA" group-title="卫视频道",西藏卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000450@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000450@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000184@JSBC" tvg-name="西藏卫视" tvg-chno="204" http-user-agent="AptvPlayer-UA" group-title="卫视频道",西藏卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000184@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000184@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000427@JSBC" tvg-name="厦门卫视" tvg-chno="123" http-user-agent="AptvPlayer-UA" group-title="卫视频道",厦门卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000427@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000427@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000452@JSBC" tvg-name="兵团卫视HD" tvg-chno="128" http-user-agent="AptvPlayer-UA" group-title="卫视频道",兵团卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000452@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000452@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000432@JSBC" tvg-name="兵团卫视" tvg-chno="124" http-user-agent="AptvPlayer-UA" group-title="卫视频道",兵团卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000432@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000432@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000410@JSBC" tvg-name="三沙卫视HD" tvg-chno="208" http-user-agent="AptvPlayer-UA" group-title="卫视频道",三沙卫视HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000410@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000410@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000409@JSBC" tvg-name="三沙卫视" tvg-chno="351" http-user-agent="AptvPlayer-UA" group-title="卫视频道",三沙卫视
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000409@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000409@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000455@JSBC" tvg-name="江苏卫视4K(HDR)" tvg-logo="https://live.fanmingming.com/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" tvg-chno="501" http-user-agent="AptvPlayer-UA" group-title="4K频道",江苏卫视4K(HDR)
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000455@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000455@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000454@JSBC" tvg-name="江苏卫视4K(SDR)" tvg-logo="https://live.fanmingming.com/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" tvg-chno="500" http-user-agent="AptvPlayer-UA" group-title="4K频道",江苏卫视4K(SDR)
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000454@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000454@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000461@JSBC" tvg-name="湖南卫视4K(SDR)" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" tvg-chno="512" http-user-agent="AptvPlayer-UA" group-title="4K频道",湖南卫视4K(SDR)
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000461@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000461@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000457@JSBC" tvg-name="浙江卫视4K(SDR)" tvg-logo="https://live.fanmingming.com/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" tvg-chno="508" http-user-agent="AptvPlayer-UA" group-title="4K频道",浙江卫视4K(SDR)
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000457@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000457@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000463@JSBC" tvg-name="东方卫视4K(SDR)" tvg-logo="https://live.fanmingming.com/tv/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" tvg-chno="514" http-user-agent="AptvPlayer-UA" group-title="4K频道",东方卫视4K(SDR)
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000463@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000463@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000435@JSBC" tvg-name="北京卫视4K(HDR)" tvg-logo="https://live.fanmingming.com/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" tvg-chno="503" http-user-agent="AptvPlayer-UA" group-title="4K频道",北京卫视4K(HDR)
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000435@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000435@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000425@JSBC" tvg-name="北京卫视4K(SDR)" tvg-logo="https://live.fanmingming.com/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" tvg-chno="502" http-user-agent="AptvPlayer-UA" group-title="4K频道",北京卫视4K(SDR)
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000425@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000425@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000465@JSBC" tvg-name="山东卫视4K(SDR)" tvg-logo="https://live.fanmingming.com/tv/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" tvg-chno="516" http-user-agent="AptvPlayer-UA" group-title="4K频道",山东卫视4K(SDR)
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000465@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000465@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000438@JSBC" tvg-name="深圳卫视4K(SDR)" tvg-logo="https://live.fanmingming.com/tv/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" tvg-chno="506" http-user-agent="AptvPlayer-UA" group-title="4K频道",深圳卫视4K(SDR)
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000438@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000438@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000436@JSBC" tvg-name="广东卫视4K(SDR)" tvg-logo="https://live.fanmingming.com/tv/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" tvg-chno="504" http-user-agent="AptvPlayer-UA" group-title="4K频道",广东卫视4K(SDR)
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000436@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000436@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000459@JSBC" tvg-name="四川卫视4K(SDR)" tvg-logo="https://live.fanmingming.com/tv/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" tvg-chno="510" http-user-agent="AptvPlayer-UA" group-title="4K频道",四川卫视4K(SDR)
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000459@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000459@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000173@JSBC" tvg-name="CETV1HD" tvg-chno="176" http-user-agent="AptvPlayer-UA" group-title="教育频道",CETV1HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000173@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000173@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000098@JSBC" tvg-name="CETV2" tvg-chno="177" http-user-agent="AptvPlayer-UA" group-title="教育频道",CETV2
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000098@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000098@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000101@JSBC" tvg-name="CETV4" tvg-chno="178" http-user-agent="AptvPlayer-UA" group-title="教育频道",CETV4
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000101@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000101@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000471@JSBC" tvg-name="中学生" tvg-chno="179" http-user-agent="AptvPlayer-UA" group-title="教育频道",中学生
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000471@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000471@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000405@JSBC" tvg-name="CETV4-HD" tvg-chno="205" http-user-agent="AptvPlayer-UA" group-title="教育频道",CETV4-HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000405@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000405@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000097@JSBC" tvg-name="CETV1" tvg-chno="209" http-user-agent="AptvPlayer-UA" group-title="教育频道",CETV1
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000097@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000097@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000467@JSBC" tvg-name="财富天下HD" tvg-chno="32" http-user-agent="AptvPlayer-UA" group-title="特色频道",财富天下HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000467@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000467@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000433@JSBC" tvg-name="睛彩竞技HD(限免)" tvg-chno="54" http-user-agent="AptvPlayer-UA" group-title="特色频道",睛彩竞技HD(限免)
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000433@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000433@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000431@JSBC" tvg-name="睛彩篮球HD(限免)" tvg-chno="55" http-user-agent="AptvPlayer-UA" group-title="特色频道",睛彩篮球HD(限免)
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000431@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000431@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000428@JSBC" tvg-name="睛彩青少HD(限免)" tvg-chno="56" http-user-agent="AptvPlayer-UA" group-title="特色频道",睛彩青少HD(限免)
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000428@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000428@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000429@JSBC" tvg-name="睛彩广场舞HD(限免)" tvg-chno="57" http-user-agent="AptvPlayer-UA" group-title="特色频道",睛彩广场舞HD(限免)
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000429@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000429@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000426@JSBC" tvg-name="卡酷少儿HD" tvg-chno="108" http-user-agent="AptvPlayer-UA" group-title="特色频道",卡酷少儿HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000426@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000426@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000216@JSBC" tvg-name="金鹰卡通HD" tvg-chno="109" http-user-agent="AptvPlayer-UA" group-title="特色频道",金鹰卡通HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000216@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000216@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000142@JSBC" tvg-name="快乐垂钓HD" tvg-chno="192" http-user-agent="AptvPlayer-UA" group-title="特色频道",快乐垂钓HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000142@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000142@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000419@JSBC" tvg-name="中国天气HD" tvg-chno="211" http-user-agent="AptvPlayer-UA" group-title="特色频道",中国天气HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000419@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000419@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000420@JSBC" tvg-name="东方财经HD" tvg-chno="212" http-user-agent="AptvPlayer-UA" group-title="特色频道",东方财经HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000420@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000420@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000422@JSBC" tvg-name="法治天地HD" tvg-chno="213" http-user-agent="AptvPlayer-UA" group-title="特色频道",法治天地HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000422@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000422@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000423@JSBC" tvg-name="生活时尚HD" tvg-chno="214" http-user-agent="AptvPlayer-UA" group-title="特色频道",生活时尚HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000423@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000423@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000424@JSBC" tvg-name="都市剧场HD" tvg-chno="215" http-user-agent="AptvPlayer-UA" group-title="特色频道",都市剧场HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000424@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000424@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000187@JSBC" tvg-name="金鹰纪实HD" tvg-chno="355" http-user-agent="AptvPlayer-UA" group-title="特色频道",金鹰纪实HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000187@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000187@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000235@JSBC" tvg-name="梨园HD" tvg-chno="381" http-user-agent="AptvPlayer-UA" group-title="特色频道",梨园HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000235@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000235@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000236@JSBC" tvg-name="武术世界HD" tvg-chno="382" http-user-agent="AptvPlayer-UA" group-title="特色频道",武术世界HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000236@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000236@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000237@JSBC" tvg-name="文物宝库HD" tvg-chno="383" http-user-agent="AptvPlayer-UA" group-title="特色频道",文物宝库HD
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000237@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000237@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000151@JSBC" tvg-name="直播间1" tvg-chno="401" http-user-agent="AptvPlayer-UA" group-title="赛事直播",直播间1
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000151@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000151@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000152@JSBC" tvg-name="直播间2" tvg-chno="402" http-user-agent="AptvPlayer-UA" group-title="赛事直播",直播间2
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000152@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000152@JSBC?r2h-token=weswes666
 
 #EXTINF:-1 tvg-id="C10000440@JSBC" tvg-name="多画面" tvg-chno="405" http-user-agent="AptvPlayer-UA" group-title="赛事直播",多画面
-http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000440@JSBC
+http://192.168.2.1:5140/rtsp/157.0.143.37:554/JSBC_iptv/C10000440@JSBC?r2h-token=weswes666
